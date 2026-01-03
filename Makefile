@@ -1,6 +1,6 @@
-# reddit-tui Makefile
+# gosnoo Makefile
 
-BINARY_NAME := reddit-tui
+BINARY_NAME := gosnoo
 CMD_PATH := ./cmd/reddit-tui
 BUILD_DIR := ./build
 
